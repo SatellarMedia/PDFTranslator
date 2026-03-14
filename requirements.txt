@@ -2,5 +2,5 @@ streamlit
 PyMuPDF
 easyocr
 deep-translator
-Pillow<10.4
+Pillow
 numpy<2.0
